@@ -36,6 +36,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.6.1"
+  auto_size_text_pk:
+    dependency: transitive
+    description:
+      name: auto_size_text_pk
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.0.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -120,6 +127,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
+  centrifuge:
+    dependency: "direct main"
+    description:
+      name: centrifuge
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.0"
   characters:
     dependency: transitive
     description:
@@ -674,6 +688,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.2.3"
+  protobuf:
+    dependency: transitive
+    description:
+      name: protobuf
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   provider:
     dependency: transitive
     description:
@@ -956,6 +977,20 @@ packages:
     dependency: transitive
     description:
       name: vector_math
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.0"
+  velocity_x:
+    dependency: "direct main"
+    description:
+      name: velocity_x
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.3.0"
+  vxstate:
+    dependency: transitive
+    description:
+      name: vxstate
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
